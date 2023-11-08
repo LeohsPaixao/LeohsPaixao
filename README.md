@@ -11,8 +11,8 @@ Olá! Sou [Leonardo Paixão], e este é o meu perfil no GitHub. Aqui você encon
 
 ## Meus Projetos Destacados
 
-- [Projeto 1]([link_para_o_projeto_1](https://github.com/LeohsPaixao/Graduation-work)): Um projeto de graduação, um projeto inspirador e simples, mas completo.
-- [Projeto 2]([link_para_o_projeto_2](https://github.com/LeohsPaixao/Cypress)): O inicio de minha carreira de QA atráves deste projeto.
+- [Projeto 1](https://github.com/LeohsPaixao/Graduation-work): Um projeto de graduação, um projeto inspirador e simples, mas completo.
+- [Projeto 2](https://github.com/LeohsPaixao/Cypress): O inicio de minha carreira de QA atráves deste projeto.
 
 Certifique-se de explorar meus repositórios para descobrir mais projetos interessantes.
 
