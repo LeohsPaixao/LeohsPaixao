@@ -1,6 +1,6 @@
-# Bem-vindo ao meu perfil do GitHub
+# Olá! Sou Leonardo Paixão
 
-Olá! Sou [Leonardo Paixão], e este é o meu perfil no GitHub. Aqui você encontrará alguns dos meus projetos, contribuições para repositórios de código aberto e outras atividades relacionadas ao desenvolvimento de software.
+Aqui você encontrará alguns dos meus projetos, contribuições para repositórios de código aberto e outras atividades relacionadas ao desenvolvimento de software.
 
 ## Sobre Mim
 
@@ -14,17 +14,12 @@ Olá! Sou [Leonardo Paixão], e este é o meu perfil no GitHub. Aqui você encon
 - [Projeto 1](https://github.com/LeohsPaixao/Graduation-work): Um projeto de graduação, um projeto inspirador e simples, mas completo.
 - [Projeto 2](https://github.com/LeohsPaixao/Cypress): O inicio de minha carreira de QA atráves deste projeto.
 
-Certifique-se de explorar meus repositórios para descobrir mais projetos interessantes.
-
-
 ## Redes Sociais
-
-Siga-me nas redes sociais!
 
 - [Twitter](https://twitter.com/LeoSilvaPaixao)
 - [LinkedIn](https://www.linkedin.com/in/leonardo-h-597293157/)
 
-Obrigado por visitar o meu perfil do GitHub! Não hesite em entrar em contato se tiver alguma pergunta ou sugestão.
+Obrigado por visitar o meu perfil do GitHub!
 
 ## Meus Stats
 
