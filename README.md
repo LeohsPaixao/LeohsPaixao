@@ -11,7 +11,7 @@ Aqui você encontrará alguns dos meus projetos, contribuições para repositór
 
 ## Meus Projetos Destacados
 
-- [Projeto 1](https://github.com/LeohsPaixao/Graduation-work): Um projeto de graduação, um projeto inspirador e simples, mas completo.
+- [Projeto 1](https://github.com/LeohsPaixao/graduation-work): Um projeto de graduação, um projeto inspirador e simples, mas completo.
 - [Projeto 2](https://github.com/LeohsPaixao/Cypress): O inicio de minha carreira de QA atráves deste projeto.
 
 ## Redes Sociais
