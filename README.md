@@ -23,8 +23,8 @@ Um projeto acadêmico criado para aprimorar meus conhecimentos em **Backend**, *
 
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeohsPaixao&theme=outrun&hide_border=true" height="180" alt="Gráfico de Contribuições" />
-    <img src="https://github-readme-stats.vercel.app/api?username=LeohsPaixao&theme=outrun&show_icons=true&hide_border=true&count_private=true" height="180" alt="Gráfico de Estatísticas" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeohsPaixao&theme=outrun&hide_border=true" height="165" alt="Gráfico de Contribuições" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LeohsPaixao&theme=outrun&show_icons=true&hide_border=true&count_private=true" height="165" alt="Gráfico de Estatísticas" />
   </div>
   <div style="margin-top: 0;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeohsPaixao&bg_color=141439&color=971ea8&line=daae23&point=8080ff&area=true&hide_border=true" alt="Gráfico de Atividades Recentes" />
