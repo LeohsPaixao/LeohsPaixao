@@ -31,12 +31,10 @@ Um projeto acadêmico criado para aprimorar meus conhecimentos em **Backend**, *
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeohsPaixao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=neon&locale=en&hide_border=false&order=1" height="150" alt="Gráfico de Contribuições" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeohsPaixao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=neon&hide_border=false&order=2" height="150" alt="Gráfico de Linguagens" />
-  <img src="[https://github-readme-activity-graph.cyclic.app/graph?username=LeohsPaixao&theme=react-dark&bg_color=0d1117&color=41b883&line=41b883&point=ffffff&hide_border=true&area=true&area_color=41b883](https://github-readme-activity-graph.vercel.app/graph?username=LeohsPaixao&bg_color=111023&color=ffffff&line=008a22&point=0033ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" height="200" alt="Gráfico de Atividades Recentes" />
-</div>
+![LeohsPaixao's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeohsPaixao&theme=outrun&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeohsPaixao&bg_color=141439&color=971ea8&line=daae23&point=8080ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 Obrigado por visitar o meu perfil do GitHub! 😊
+
