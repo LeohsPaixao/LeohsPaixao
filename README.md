@@ -1,15 +1,11 @@
 # 👋 Olá! Sou Leonardo Paixão
 
-Sou **QA e DevOps Engineer**, com quase 4 anos de experiência na área de testes de software. Tenho conhecimentos sólidos em diversos frameworks de teste e uma paixão por tecnologia, qualidade e automação.
-
----
-
 ## 🧑‍💻 Sobre Mim
 
 - 👨‍💻 Sou um profissional apaixonado por garantir a qualidade e eficiência dos sistemas.
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** pela **Fatec Cruzeiro**.
 - 🌍 Amante de tecnologia, programação e sempre buscando aprender algo novo.
-- 📫 Entre em contato: [leonardohspaixao@gmail.com](mailto:leonardohspaixao@gmail.com).
+- 📫 Entre em contato: [leonardohspaixao@gmail.com](mailto:leonardohspaixao@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/leonardo-h-597293157/)
 
 ---
 
@@ -23,19 +19,18 @@ Um projeto acadêmico criado para aprimorar meus conhecimentos em **Backend**, *
 
 ---
 
-## 🌐 Redes Sociais
-
-- [LinkedIn](https://www.linkedin.com/in/leonardo-h-597293157/)
-
----
-
 ## 📊 Estatísticas
 
-![LeohsPaixao's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeohsPaixao&theme=outrun&hide_border=true)
-![LeohsPaixao's Stats](https://github-readme-stats.vercel.app/api?username=LeohsPaixao&theme=outrun&show_icons=true&hide_border=true&count_private=true)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeohsPaixao&bg_color=141439&color=971ea8&line=daae23&point=8080ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeohsPaixao&theme=outrun&hide_border=true" height="180" alt="Gráfico de Contribuições" />
+    <img src="https://github-readme-stats.vercel.app/api?username=LeohsPaixao&theme=outrun&show_icons=true&hide_border=true&count_private=true" height="180" alt="Gráfico de Estatísticas" />
+  </div>
+  <div style="margin-top: 0;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeohsPaixao&bg_color=141439&color=971ea8&line=daae23&point=8080ff&area=true&hide_border=true" alt="Gráfico de Atividades Recentes" />
+  </div>
+</div>
 
 ---
 
 Obrigado por visitar o meu perfil do GitHub! 😊
-
