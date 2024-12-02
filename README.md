@@ -22,14 +22,13 @@ Um projeto acadêmico criado para aprimorar meus conhecimentos em **Backend**, *
 ## 📊 Estatísticas
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeohsPaixao&theme=outrun&hide_border=true" height="165" alt="Gráfico de Contribuições" />
-    <img src="https://github-readme-stats.vercel.app/api?username=LeohsPaixao&theme=outrun&show_icons=true&hide_border=true&count_private=true" height="165" alt="Gráfico de Estatísticas" />
-  </div>
-  <div style="margin-top: 0;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeohsPaixao&bg_color=141439&color=971ea8&line=daae23&point=8080ff&area=true&hide_border=true" alt="Gráfico de Atividades Recentes" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=LeohsPaixao&theme=custom&bg_color=0d1116&title_color=daae23&text_color=ffffff&icon_color=971ea8&hide_border=true&count_private=true&show_icons=true" height="165" alt="Gráfico de Estatísticas" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeohsPaixao&layout=compact&theme=custom&bg_color=0d1116&title_color=daae23&text_color=ffffff&icon_color=971ea8&hide_border=true" height="165" alt="Gráfico de Linguagens Mais Usadas" />
   </div>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LeohsPaixao&bg_color=0d1116&color=daae23&line=971ea8&point=daae23&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
