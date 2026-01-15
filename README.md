@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/LeohsPaixao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="LeohsPaixao" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leonardo-henrique-d-597293157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-henrique-d-597293157/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/leonardo-henrique-d-597293157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leonardo-henrique-d-597293157/" height="30" width="40" /></a>
 <a href="https://twitter.com/LeoSilvaPaixao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="LeoSilvaPaixao" height="30" width="40" /></a>
 </p>
 
